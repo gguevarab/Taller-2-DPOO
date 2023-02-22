@@ -1,0 +1,17 @@
+ID Pedido: 762
+Nombre Cliente: cat
+Dirección Cliente: Meow
+
+Productos en la factura: 
+wrap de lomo		Precio: 22000
+agua cristal sin gas		Precio: 5000
+corral		Precio: 14000
+papas medianas		Precio: 5500
+gaseosa		Precio: 5000
+
+Ingredientes adicionales: 
+huevo		Precio Extra: 2500
+
+IVA: 9794
+Precio Total: 51550
+Precio Neto: 61344

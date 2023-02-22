@@ -1,0 +1,18 @@
+ID Pedido: 4858
+Nombre Cliente: dog
+Dirección Cliente: woof
+
+Productos en la factura: 
+wrap de lomo		Precio: 22000
+especial		Precio: 24000
+papas medianas		Precio: 5500
+gaseosa		Precio: 5000
+agua cristal sin gas		Precio: 5000
+
+Ingredientes adicionales: 
+piña		Precio Extra: 2500
+queso americano		Precio Extra: 2500
+
+IVA: 12176
+Precio Total: 64085
+Precio Neto: 76261
